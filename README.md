@@ -13,6 +13,6 @@
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/zcode-glitch/calc_terminal.git
+git clone https://github.com/zcode-glitch/number-guessing.git
 cd number-guessing-game
 python main.py / py main.py
